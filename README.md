@@ -3,14 +3,14 @@
 - 🌱 I’m currently learning laravel 
 - 💞️ I’m looking to collaborate on Web development
 - 📫 My Portfolio - https://armine-web.github.io/MyPortfoloi/
-     My works
-     https://armine-web.github.io/criptolending/
-     https://armine-web.github.io/jazzclub/
-     https://armine-web.github.io/planeta/
-     https://armine-web.github.io/dubai/
-     https://armine-web.github.io/dovitabridal/
-     https://armine-web.github.io/stepN/stepNFullScreen/
-     https://armine-web.github.io/project/
+-  My works
+-   https://armine-web.github.io/criptolending/
+-   https://armine-web.github.io/jazzclub/
+-   https://armine-web.github.io/planeta/
+-   https://armine-web.github.io/dubai/
+-   https://armine-web.github.io/dovitabridal/
+-   https://armine-web.github.io/stepN/stepNFullScreen/
+-   https://armine-web.github.io/project/
      
      
 
