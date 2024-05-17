@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Armine-web
-- 👀 I’m interested in Html. Css, Flex, Bootstrap, Php, MySql, Js, JQuery, Wordpress, SAS
-- 🌱 I’m currently learning laravel 
+- 👀 I’m interested in Html. Css, Flex, Bootstrap, Js, Php, MySql, Wordpress, SAS
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on Web development
 - 📫 My Portfolio - https://armine-web.github.io/MyPortfoloi/
 - ✨ My works
