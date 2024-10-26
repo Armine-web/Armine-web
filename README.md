@@ -14,7 +14,6 @@
 -   https://armine-web.github.io/avto/lending/
 -   https://armine-web.github.io/criptolending/
 -   https://armine-web.github.io/jazzclub/
--   https://armine-web.github.io/planeta/
 -   https://armine-web.github.io/dubai/dubai/
 -   https://armine-web.github.io/dovitabridal/
 -   https://armine-web.github.io/stepN/stepNFullScreen/
