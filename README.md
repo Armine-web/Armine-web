@@ -8,7 +8,6 @@
 -   https://armine-web.github.io/response-movie/
 -   https://armine-web.github.io/get-quotes/
 -   https://armine-web.github.io/Craftowork/
--   https://armine-web.github.io/worcspace/
 -   https://armine-web.github.io/create-react-app-cart-app/
 -   https://armine-web.github.io/bouncy/
 -   https://armine-web.github.io/movie-card-creator/
