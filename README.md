@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Armine-web
-- 👀 I’m interested in Html. Css, Flex, Grid, Bootstrap, Js
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Html. Css, Flex, Grid, Bootstrap, Js, React, Redux
 - 💞️ I’m looking to collaborate on Web development 
 - ✨ My works
 -   https://armine-web.github.io/delivery/
