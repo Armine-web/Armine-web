@@ -18,7 +18,7 @@
 </h1>
 
 ### :woman_technologist: About Me :
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a React Js Developer  from Armenia.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <span style="font-size=20px"> I am a frontend developer specializing in React JS, I focus on creating smooth user experiences and maintainable codebases. I believe in writing clean, reusable components and working closely with teams to deliver value-driven solutions.</span>
 - ### :hammer_and_wrench: Languages and Tools :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
