@@ -17,8 +17,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: About Me :
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <span style="font-size=20px"> I am a frontend developer specializing in React JS, I focus on creating smooth user experiences and maintainable codebases. I believe in writing clean, reusable components and working closely with teams to deliver value-driven solutions.</span>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me :
+-  <span style="font-size=20px"> I am a frontend developer specializing in React JS, I focus on creating smooth user experiences and maintainable codebases. I believe in writing clean, reusable components and working closely with teams to deliver value-driven solutions.</span>
 - ### :hammer_and_wrench: Languages and Tools :
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,8 +45,7 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=%40Armine-web&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
-</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armine-web&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - ✨ My works
