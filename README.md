@@ -6,10 +6,13 @@
   <a href="https://www.linkedin.com/in/armine-aghajanyan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://t.me/A_Arminka">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
 </div>
 
 <div id="header" align="center">
- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=yellow" alt=""/>
 </div>
 
 <h1>
