@@ -34,13 +34,13 @@
 <div>
 🌍 Languages
   <div>
-  - Armenian – Native 
+    -   Armenian – Native
+  </div>
+  <div> 
+    -   English – Intermediate 
   </div>
   <div>
-  - English – Intermediate 
-  </div>
-  <div>
-  - Russian – Upper Intermediate 
+    -   Russian – Upper Intermediate
   </div>
 </div>
 
@@ -48,7 +48,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armine-web&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- ✨ My works
+✨ My works
 -   https://armine-web.github.io/delivery/
 -   https://armine-web.github.io/travel/
 -   https://armine-web.github.io/response-movie/
