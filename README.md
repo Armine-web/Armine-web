@@ -58,9 +58,7 @@
 -   https://armine-web.github.io/response-movie/
 -   https://armine-web.github.io/timeline/
 -   https://armine-web.github.io/Craftowork/
--   https://armine-web.github.io/create-react-app-cart-app/
 -   https://armine-web.github.io/bouncy/
--   https://armine-web.github.io/Tic-Tac-Toe/
 -   https://armine-web.github.io/MyPortfoloi/
 -   https://armine-web.github.io/avto/lending/
 -   https://armine-web.github.io/criptolending/
